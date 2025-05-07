@@ -1,5 +1,8 @@
 # Semantic Book Recommendation
 
+![Alt]( ./preview.png)
+
+
 This project aims to build a semantic book recommendation system using advanced natural language processing techniques.
 
 ## Features
